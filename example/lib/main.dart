@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:native_flutter_proxy/native_proxy_reader.dart';
-import 'package:native_flutter_proxy/custom_proxy.dart';
+import 'package:thang_native_flutter_proxy/native_proxy_reader.dart';
+import 'package:thang_native_flutter_proxy/custom_proxy.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
